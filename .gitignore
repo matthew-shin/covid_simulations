@@ -1,0 +1,9 @@
+# Data storage files
+*.pp
+*.nc
+*.npy
+*.csv
+*.err
+*.out
+
+
